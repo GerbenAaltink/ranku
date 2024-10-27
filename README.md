@@ -1,4 +1,7 @@
-# Utro SQLite 3 rest server
+# Ranku SQLite 3 REST server
+
+# Introduction
+Ranku is a SQLite 3 REST server. It allows query execution with parameters using REST. To see how that works, look at my other repository "Utro" where the client is located.
 
 ## Build instructions
 
